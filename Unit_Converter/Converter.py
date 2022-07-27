@@ -1,6 +1,4 @@
 import PySimpleGUI as sg
-import sys
-print(sys.version)
 
 layout = [
     [
