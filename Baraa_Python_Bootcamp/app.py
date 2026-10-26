@@ -1,5 +1,9 @@
-age = 35
-print(18 <= age <= 30)
+def test():
+    return 5
+    return 10
+
+print(test())
+
 
 
 
